@@ -1,7 +1,7 @@
 # A blank HTML file generator. (Python)
 A Python script for creating a blank, barebones HTML file, with your choice of file name. Sweet!
 <hr>
-The big idea for this project is to extend the Linux touch command to name a file to be used as a web page, and to automatically insert basic, barebones html code, a skeleton of a web page.
+The big idea for this project is to learn to extend the Linux touch command to name a file to be used as a web page, and to automatically insert basic, barebones html code, a skeleton of a web page.
 
 You can give your page any name you want, and use any suffix you want (html, php, etc.).
 
